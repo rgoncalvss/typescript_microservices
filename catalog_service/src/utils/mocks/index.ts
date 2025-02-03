@@ -1,4 +1,4 @@
-import { faker } from "@faker-js/faker/.";
+import { faker } from "@faker-js/faker";
 import { Product } from "../../models/product.model";
 import { Factory } from "rosie";
 

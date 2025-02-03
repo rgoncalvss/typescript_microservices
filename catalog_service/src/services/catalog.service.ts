@@ -1,4 +1,3 @@
-import { ne } from "@faker-js/faker/.";
 import { ICatalogRepository } from "../interface/catalog-repository.interface";
 import { Product } from "../models/product.model";
 
